@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
+        "source": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\src\\main\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_right.xml",
+        "source": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\src\\main\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_left.xml",
+        "source": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_out.xml",
+        "source": "F:\\doc\\TopNews-master\\MyApplication\\topNews\\src\\main\\res\\anim\\slide_left_out.xml"
+    }
+]
